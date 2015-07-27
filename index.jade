@@ -2,10 +2,17 @@ doctype
 html
   head
     title Math 1 EOC Review
-    link(rel="stylesheet" type="text/css" href="main.css")
+    //link(rel="stylesheet" type="text/css" href="main.css")
+    style
+      body
+        font-family Arial
+    meta(http-equiv="Content-Type" content="text/html; charset=utf-8")
+
   body
+    script(src="scripts/ASCIIMathML.js")
+    include _sample_questions.jade
     include _multiple.jade
     include _gridded.jade
-    script(src="https://cdnjs.cloudflare.com/ajax/libs/phaser/2.3.0/custom/phaser-arcade-physics.js")
-    script(src="game.js")
+    script(src="scripts/phaser.js")
+    script(src="scripts/game.js")
 
