@@ -1,0 +1,52 @@
+{
+  "questions": [
+    {
+      "_id": "1",
+      "text": "Which expression is equivalent to `g^2 - 16`?",
+      "type": "m",
+      "answers": [
+        "`(g-2)(g-8)`",
+        "`(g-4)(g-4)`",
+        "`(g+4)(g-4)`",
+        "`(g-2)(g+8)`"
+      ],
+      "correct": 2
+    },
+    {
+      "_id": "2",
+      "text": "The floor of a rectangular kitchen has a length six feet greater than its width `w`. Sam will increase both dimensions of the floor by three feet. Which equation represents the new area `N` of the kitchen floor?",
+      "type": "m",
+      "answers": [
+        "`N = w^2 + 12w + 24`",
+        "`N = w^2 + 18w`",
+        "`N = w^2 + 18w + 27`",
+        "`N = w^2 + 12w`"
+      ],
+      "correct": 2
+    },
+    {
+      "_id": "3",
+      "text": "A school purchases boxes of cookies. Each box contains 80 cookies. Each box costs $40. How much does the school have to charge for each cookie to make a profit of $15 per box?",
+      "type": "m",
+      "answers": [
+        "`$0.99`",
+        "`$0.69`",
+        "`$1.35`",
+        "`0.79`"
+      ],
+      "correct": 2
+    },
+    {
+      "_id": "4",
+      "text": "",
+      "type": "m",
+      "answers": [
+        "`1973`",
+        "`1975`",
+        "`1998`",
+        "`2010`"
+      ],
+      "correct": 2
+    }
+  ]
+}
