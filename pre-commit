@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# ln -s ../../pre-commit ~/.git/hooks/pre-commit
+
+harp compile
+surge www
