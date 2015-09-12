@@ -104,21 +104,33 @@
         "`9`",
         "`1/11`",
         "`11`",
-        "`1/9'"
+        "`1/9`"
       ],
       "correct": 1            
     },
     {
       "_id": "10",
-      "text": "?",
+      "text": "The boiling point of oil, L (measured in degrees Fahrenheit), at altitude x (measured in feet) is modeled by the function L(x) = -0.026x + 572.  In terms of altitude and temperature, which statement describes the meaning of the slope?",
       "type": "m",
       "answers": [
-        "`9`",
-        "`1/11`",
-        "`11`",
-        "`1/9'"
+        "`The boiling point increases by 2.6 degrees as the altitude increases by 100 feet.`",
+        "`The boiling point decreases by 26 degrees as the altitude increases by 100 feet.`",
+        "`The boiling point decreases by 2.6 degrees as the altitude increases by 100 feet.`",
+        "`The boiling point increases by 26 degrees as the altitude increases by 100 feet.`"
       ],
-      "correct": 1            
-    }
+      "correct": 3            
+    },
+    {
+      "_id": "11",
+      "text": "A line segment has endpoints P(7,8) and Q(9,10).  The point R is the midpoint of /overlinePQ.  What is an equation of a line perpendicular to /overlinePQ and passing through R?",
+      "type": "m",
+      "answers": [
+        "`answer`",
+        "`answer`",
+        "`answer`",
+        "`answer`"
+      ],
+      "correct": 0
+    },
   ]
 }
