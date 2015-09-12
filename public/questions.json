@@ -125,12 +125,24 @@
       "text": "A line segment has endpoints P(7,8) and Q(9,10).  The point R is the midpoint of /overlinePQ.  What is an equation of a line perpendicular to /overlinePQ and passing through R?",
       "type": "m",
       "answers": [
-        "`answer`",
-        "`answer`",
-        "`answer`",
-        "`answer`"
+        "`x + 1`",
+        "`-x + 17`",
+        "`-x - 17`",
+        "`x - 1`"
       ],
-      "correct": 0
+      "correct": 2
+    },
+    {
+      "_id": "12",
+      "text": "A triangle has vertices at (2,4), (2,-4), and (-2,-2).  What is the approximate perimeter of the triangle?",
+      "type": "m",
+      "answers": [
+        "`x + 1`",
+        "`-x + 17`",
+        "`-x - 17`",
+        "`x - 1`"
+      ],
+      "correct": 2
     }
   ]
 }
