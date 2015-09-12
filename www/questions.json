@@ -122,7 +122,7 @@
     },
     {
       "_id": "11",
-      "text": "question",
+      "text": "A line segment has endpoints P(7,8) and Q(9,10).  The point R is the midpoint of /overlinePQ.  What is an equation of a line perpendicular to /overlinePQ and passing through R?",
       "type": "m",
       "answers": [
         "`answer`",
