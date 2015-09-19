@@ -143,6 +143,18 @@
         "`x - 1`"
       ],
       "correct": 2
-    }
+    },
+    {
+      "_id": "13",
+      "text": "A company produces packs of crayons and markers.  The company produces at least 150 packs of crayons each day, but no more than 350.  The company produces at least 60 markers per day, but no more than 150.  A total",
+      "type": "m",
+      "answers": [
+        "`x + 1`",
+        "`-x + 17`",
+        "`-x - 17`",
+        "`x - 1`"
+      ],
+      "correct": 2
+    },
   ]
 }
