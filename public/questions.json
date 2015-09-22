@@ -146,15 +146,27 @@
     },
     {
       "_id": "13",
-      "text": "A company produces packs of crayons and markers.  The company produces at least 150 packs of crayons each day, but no more than 350.  The company produces at least 60 markers per day, but no more than 150.  A total",
+      "text": "A company produces packs of crayons and markers.  The company produces at least 150 packs of crayons each day, but no more than 300.  The company produces at least 60 markers per day, but no more than 150.  A total of less than 350 packs of crayons and markers are produced each day.  Each pack of crayons makes a profit of $1.50.  Each pack of markers makes a profit of $1.00.  What is the maximum profit the company can make each day?",
       "type": "m",
       "answers": [
-        "`x + 1`",
-        "`-x + 17`",
-        "`-x - 17`",
-        "`x - 1`"
+        "`$415.75`",
+        "`$471.25`",
+        "`$535.5`",
+        "`$493.5`"
       ],
-      "correct": 2
+      "correct": 4
     },
+    {
+      "_id": "14",
+      "text": "Sam mixed pecans and walnuts.",
+      "type": "m",
+      "answers": [
+        "`$415.75`",
+        "`$471.25`",
+        "`$535.5`",
+        "`$493.5`"
+      ],
+      "correct": 4
+    }
   ]
 }
