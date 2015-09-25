@@ -3,14 +3,23 @@ html
   head
     title Math 1 EOC Review
   body
-    #question Question
-    .answers
-      .answer One
-      .answer Two
-      .answer Three
-      .answer Four
+    .content
+      #question Question
+      .answers
+        .afield 
+          span.letter A. 
+          span.answer
+        .afield 
+          span.letter B. 
+          span.answer
+        .afield 
+          span.letter C. 
+          span.answer
+        .afield 
+          span.letter D. 
+          span.answer
 
-    button.newone New One
+    button#newone New One
     script(src="testprep.js")
     script(src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_HTMLorMML-full")
     script(src="reveal.js")

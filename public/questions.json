@@ -113,10 +113,10 @@
       "text": "The boiling point of oil, L (measured in degrees Fahrenheit), at altitude x (measured in feet) is modeled by the function L(x) = -0.026x + 572.  In terms of altitude and temperature, which statement describes the meaning of the slope?",
       "type": "m",
       "answers": [
-        "`The boiling point increases by 2.6 degrees as the altitude increases by 100 feet.`",
-        "`The boiling point decreases by 26 degrees as the altitude increases by 100 feet.`",
-        "`The boiling point decreases by 2.6 degrees as the altitude increases by 100 feet.`",
-        "`The boiling point increases by 26 degrees as the altitude increases by 100 feet.`"
+        "The boiling point increases by 2.6 degrees as the altitude increases by 100 feet.",
+        "The boiling point decreases by 26 degrees as the altitude increases by 100 feet.",
+        "The boiling point decreases by 2.6 degrees as the altitude increases by 100 feet.",
+        "The boiling point increases by 26 degrees as the altitude increases by 100 feet."
       ],
       "correct": 3            
     },
