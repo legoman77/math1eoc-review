@@ -1,12 +1,11 @@
 (function(){
 
 var request = new XMLHttpRequest();
-request.open('GET', '/questions.json', true);
+request.open('GET', 'questions.json', true);
 
 var data = null;
 var qfield = document.querySelector("#question")
 var newone = document.querySelector("#newone")
-
 
 function randInt(min, max) {
   return Math.floor(Math.random() * (max - min)) + min;
