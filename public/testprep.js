@@ -24,9 +24,7 @@ var showNextQuestion = function () {
     for (n = 0; n < answers.length; n++) {
       answers[n].innerText = question.answers[n];
     }
-    try {
-      MathJax.Hub.Queue(["Typeset",MathJax.Hub,"content"]);
-    } catch(err){ }
+    MathJax.Hub.Queue(["Typeset",MathJax.Hub,"content"]);
 }
 
 newone.onclick = showNextQuestion;

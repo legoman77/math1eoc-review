@@ -2,26 +2,28 @@ doctype
 html
   head
     title Math 1 EOC Review
+    //link(href="main.css", rel="stylesheet")
+    //link(href="bootstrap-3.3.5-dist/css/bootstrap-theme.min.css", rel="stylesheet")
+    script(src="MathJax/MathJax.js?config=AM_HTMLorMML-full")
   body
     .content
       #question Question
       .answers
         .afield 
-          span.letter A. 
+          button.letter A.
           span.answer
         .afield 
-          span.letter B. 
+          button.letter B. 
           span.answer
         .afield 
-          span.letter C. 
+          button.letter C. 
           span.answer
         .afield 
-          span.letter D. 
+          button.letter D. 
           span.answer
 
     button#newone New One
-    script(src="testprep.js")
-    //-script(src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_HTMLorMML-full")
-    script(src="MathJax.js")
-    script(src="reveal.js")
+    script
+      include testprep.js
+      include reveal.js
 
