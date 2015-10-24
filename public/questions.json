@@ -197,10 +197,10 @@
       "text": "The sequence below shows the total number of days Joe had used his track membership at the end of weeks 1, 2, 3, and 4: 5, 8, 11, 14, ... Assuming the pattern continued, which function could be used to find the total number of days Joe had used his track membership at the end of week w?", 
       "type": "m",
       "answers": [
-        "f(w) = w + 3",
-        "f(w) = 3w + 2",
-        "'f(w) = w^3'",
-        "f(w) = 3w - 5"
+        "`f(w) = w + 3`",
+        "`f(w) = 3w + 2`",
+        "`f(w) = w^3`",
+        "`f(w) = 3w - 5`"
       ],
       "correct": 2
     },
