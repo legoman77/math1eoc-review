@@ -5,10 +5,10 @@
       "text": "Which expression is equivalent to `g^2 - 16`?",
       "type": "m",
       "answers": [
-        "(g-2)(g-8)",
-        "(g-4)(g-4)",
-        "(g+4)(g-4)",
-        "(g-2)(g+8)"
+        "`(g-2)(g-8)`",
+        "`(g-4)(g-4)`",
+        "`(g+4)(g-4)`",
+        "`(g-2)(g+8)`"
       ],
       "correct": 2
     },
@@ -38,7 +38,7 @@
     },
     {
       "_id": "4",
-      "text": "Suppose that the equation 'D = 15.4x^2 - 572.6x + 4,750' represents the value of a motorcycle from 1972 to 2010.  What year did the motorcycle have the least value?",
+      "text": "Suppose that the equation `D = 15.4x^2 - 572.6x + 4,750` represents the value of a motorcycle from 1972 to 2010.  What year did the motorcycle have the least value?",
       "type": "m",
       "answers": [
         "1973",
@@ -50,7 +50,7 @@
     },
     {
       "_id": "5",
-      "text": "Sal's car ride to school is 7 minutes more than 3/5 the time of Bill's car ride. Which graph shows the possible times of Sal's and Bill's car rides? ",
+      "text": "Sal's car ride to school is 7 minutes more than `3/5` the time of Bill's car ride. Which graph shows the possible times of Sal's and Bill's car rides? ",
       "type": "m",
       "answers": [
         "graph",
@@ -89,10 +89,10 @@
       "text": "Smartphone Company F charges a $20 start-up fee plus $0.15 per minute, y.  Smartphone Company G charges $0.35 per minute, y, with no start-up fee.  Which function represents the difference in cost between Company F and Company G?",
       "type": "m",
       "answers": [
-        "f(y) = 20y + 0.20",
-        "f(y) = -0.20y - 20",
-        "f(y) = 20y - 0.20",
-        "f(y) = -0.20y + 20" 
+        "`f(y) = 20y + 0.20`",
+        "`f(y) = -0.20y - 20`",
+        "`f(y) = 20y - 0.20`",
+        "`f(y) = -0.20y + 20`" 
       ],
       "correct": 4            
     },
@@ -110,7 +110,7 @@
     },
     {
       "_id": "10",
-      "text": "The boiling point of oil, L (measured in degrees Fahrenheit), at altitude x (measured in feet) is modeled by the function L(x) = -0.026x + 572.  In terms of altitude and temperature, which statement describes the meaning of the slope?",
+      "text": "The boiling point of oil, `L` (measured in degrees Fahrenheit), at altitude `x` (measured in feet) is modeled by the function `L(x) = -0.026x + 572`.  In terms of altitude and temperature, which statement describes the meaning of the slope?",
       "type": "m",
       "answers": [
         "The boiling point increases by 2.6 degrees as the altitude increases by 100 feet.",
@@ -122,13 +122,13 @@
     },
     {
       "_id": "11",
-      "text": "A line segment has endpoints P(7,8) and Q(9,10).  The point R is the midpoint of /overlinePQ.  What is an equation of a line perpendicular to /overlinePQ and passing through R?",
+      "text": "A line segment has endpoints `P(7,8)` and `Q(9,10)`.  The point R is the midpoint of /overlinePQ.  What is an equation of a line perpendicular to `/overlinePQ` and passing through `R`?",
       "type": "m",
       "answers": [
-        "x + 1",
-        "-x + 17",
-        "-x - 17",
-        "x - 1"
+        "`x + 1`",
+        "`-x + 17`",
+        "`-x - 17`",
+        "`x - 1`"
       ],
       "correct": 2
     },
@@ -161,9 +161,9 @@
       "text": "The following sequence shows the number of flowers a daycare plants each year: 4, 12, 36, 108... Which formula could be used to determine the number of flowers the daycare will plant next year, NEXT, if the number of flowers planted this year, NOW, is known?",
       "type": "m",
       "answers": [
-        "NEXT = NOW + 8",
-        "NEXT = 4 * NOW - 4",
-        "NEXT = 3 * NOW",
+        "`NEXT = NOW + 8`",
+        "`NEXT = 4 * NOW - 4`",
+        "`NEXT = 3 * NOW`",
         "`NEXT = 1/3NOW`"
       ],
       "correct": 3
@@ -173,16 +173,16 @@
       "text": "There were originally 6 flowers in an garden.  Each year the owner planted the same number of flowers.  In the 26th year, there were 188 flowers in the garden.  Which function, f(y), can be used to determine the number of flowers in the orchard in any year, y?",
       "type": "m",
       "answers": [
-        "f(y) = 7n + 6",
-        "'f(y) = 188/26y - 6'",
-        "f(y) = 26y + 4",
-        "'f(y) = 188/26 + 6'"
+        "`f(y) = 7n + 6`",
+        "`f(y) = 188/26y - 6`",
+        "`f(y) = 26y + 4`",
+        "`f(y) = 188/26 + 6`'"
       ],
       "correct": 1
     },
     {
       "_id": "16",
-      "text": "The vertices of quadrilateral IJKL are I(1,4), J(2,4), K(2,7), and L(1, 7).  What kind of quadrilateral is IJKL?", 
+      "text": "The vertices of quadrilateral `IJKL` are `I(1,4)`, `J(2,4)`, `K(2,7)`, and `L(1, 7)`.  What kind of quadrilateral is `IJKL`?", 
       "type": "m",
       "answers": [
         "rhombus that is not a square",
@@ -197,10 +197,10 @@
       "text": "The sequence below shows the total number of days Joe had used his track membership at the end of weeks 1, 2, 3, and 4: 5, 8, 11, 14, ... Assuming the pattern continued, which function could be used to find the total number of days Joe had used his track membership at the end of week w?", 
       "type": "m",
       "answers": [
-        "f(w) = w + 3",
-        "f(w) = 3w + 2",
-        "'f(w) = w^3'",
-        "f(w) = 3w - 5"
+        "`f(w) = w + 3`",
+        "`f(w) = 3w + 2`",
+        "`f(w) = w^3`",
+        "`f(w) = 3w - 5`"
       ],
       "correct": 2
     },
