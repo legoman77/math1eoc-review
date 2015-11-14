@@ -1,0 +1,12 @@
+{
+  "_id": "24",
+  "text": "A sum of money amounting to $5.05 consists of dimes and nickels.  If there are 21 coins in all, how many are nickels?",
+  "type": "m",
+  "answers": [
+    "20",
+    "1",
+    "12",
+    "10"
+  ]
+  "correct": 2
+}

@@ -1,12 +1,12 @@
 {
   "_id": "23",
-  "text": "Which expression is equal to `27a",
+  "text": "During the 2014-2015 Little League season, the Broncos played 56 games.  They won 22 more game than they lost.  How many games did the Broncos win?",
   "type": "m",
   "answers": [
-    "",
-    "",
-    "",
-    ""
+    "39",
+    "34",
+    "17",
+    "40"
   ]
-  "correct": 0
+  "correct": 1
 }
