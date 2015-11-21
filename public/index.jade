@@ -27,3 +27,12 @@ html
       include testprep.js
       include reveal.js
 
+    script(src="phaser.js")
+    script(src="boot.js")
+    #game
+    script.
+      var d = document.getElementById("game")
+      var game = new Phaser.Game(320,568,Phaser.AUTO,d); 
+      game.state.add('boot',EOC.Boot);
+      game.state.start('boot');
+
