@@ -1,0 +1,12 @@
+{
+  "_id": "13",
+  "text": "Riley sells chocolate cupcakes and vanilla cupcakes.  Baking a batch of chocolate cupcakes takes 1.50 pounds of flour and 3 eggs.  Baking a batch of vanilla cupcakes takes 1.75 cups of flour and 2 eggs.  Riley has 12 cups of flour and 14 eggs.  He makes $3 profit per batch of chocloate cupcakes.  He makes $1 profit per batch of vanilla cupcakes.  How many batches of chocolate cupcakes should Riley make to maximize his profit?",
+  "type": "m",
+  "answers": [
+    "3",
+    "4",
+    "7",
+    "9"
+  ],
+  "correct": 2
+}

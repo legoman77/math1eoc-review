@@ -1,0 +1,12 @@
+{
+  "_id": "2",
+  "text": "The floor of a rectangular kitchen has a length six feet greater than its width `w`. Sam will increase both dimensions of the floor by three feet. Which equation represents the new area `N` of the kitchen floor?",
+  "type": "m",
+  "answers": [
+    "`N = w^2 + 12w + 24`",
+    "`N = w^2 + 18w`",
+    "`N = w^2 + 18w + 27`",
+    "`N = w^2 + 12w`"
+  ],
+  "correct": 2
+}

@@ -1,0 +1,12 @@
+{
+  "_id": "15",
+  "text": "There were originally 6 flowers in an garden.  Each year the owner planted the same number of flowers.  In the 26th year, there were 188 flowers in the garden.  Which function, f(y), can be used to determine the number of flowers in the orchard in any year, y?",
+  "type": "m",
+  "answers": [
+    "`f(y) = 7n + 6`",
+    "`f(y) = 188/26y - 6`",
+    "`f(y) = 26y + 4`",
+    "`f(y) = 188/26 + 6`'"
+  ],
+  "correct": 1
+}

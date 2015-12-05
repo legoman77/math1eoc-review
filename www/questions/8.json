@@ -1,0 +1,12 @@
+{
+  "_id": "8",
+  "text": "Smartphone Company F charges a $20 start-up fee plus $0.15 per minute, y.  Smartphone Company G charges $0.35 per minute, y, with no start-up fee.  Which function represents the difference in cost between Company F and Company G?",
+  "type": "m",
+  "answers": [
+    "`f(y) = 20y + 0.20`",
+    "`f(y) = -0.20y - 20`",
+    "`f(y) = 20y - 0.20`",
+    "`f(y) = -0.20y + 20`" 
+  ],
+  "correct": 4            
+}
