@@ -19,6 +19,7 @@ EOC.Boot.prototype = {
   },
 
   preload: function () {
+    game.input.onDown.add(function() {game.parent.style.display = "none"});
   },
 
   create: function () {

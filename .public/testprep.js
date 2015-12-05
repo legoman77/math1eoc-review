@@ -27,7 +27,13 @@ var showNextQuestion = function () {
     MathJax.Hub.Queue(["Typeset",MathJax.Hub,"content"]);
 }
 
-newone.onclick = showNextQuestion;
+var showGame = function () {
+  var game = document.getElementById("game")
+  game.style.display = "block";
+}
+
+//newone.onclick = showNextQuestion;
+newone.onclick = showGame;
 
 request.onload = function() {
   if (request.status >= 200 && request.status < 400) {
